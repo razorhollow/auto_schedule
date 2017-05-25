@@ -233,19 +233,3 @@ print('The following jobs have no routing and will be ommitted from schedule: ')
 pprint.pprint(notrouted)
 
 job_assign()
-        
-        
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
