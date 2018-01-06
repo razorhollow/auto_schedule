@@ -1,0 +1,15 @@
+Week is divided into total hours of routing assigned.
+
+A complete job earns 1 hour = 1 point
+unfinished job earns 1 hour = 1/2 point
+
+CNC Department is a team. Each person is responsible for 150% (1 extra person per 2 people)
+total points /2 = individual score
+
+Total hours assigned for the week: 100
+
+Jason and Chad are responsible for 60% of stack (1 extra person, 5 total, 100/5=20 20*3)
+Tom and Paul are each responsible for 20%
+
+job shipped = routed time = hours added to score
+job not shipped = 1/2 time worked added to score, up to routed time
